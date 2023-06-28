@@ -1,0 +1,21 @@
+Scale bone's father stick. 
+1: perlvis
+2: femur
+3: tibia
+4: hind_paw 
+5: hind_paw_palm 
+scapula 
+humerus 
+ulna
+fore_paw
+10: front_paw_palm 
+11: vertebrae
+12: tail
+13: head
+14: belly_stretch
+15: neck_strech_l
+16: neck_strech_r 
+17: neck_strech
+18: snout
+19: ear
+20: tail_end

@@ -1,0 +1,15 @@
+glfw
+pyGLM
+freetype-py 
+pyrender
+matplotlib
+scipy
+scikit-learn
+opencv-python
+tqdm 
+ipython 
+trimesh
+plotly 
+imageio
+videoio 
+scikit-image 

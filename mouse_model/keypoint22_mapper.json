@@ -1,0 +1,239 @@
+{
+    "mapper": [ 
+    {
+        "keypoint": 0, 
+        "type": "V", 
+        "ids": [12274, 12225]
+    },
+    {
+        "keypoint": 1, 
+        "type": "V", 
+        "ids": [4966, 5011 ]
+    }, 
+    {
+        "keypoint": 2, 
+        "type": "V", 
+        "ids": [13492, 13337, 13491, 13718, 6030, 6167, 6168, 13490, 13493]
+    },
+    {
+        "keypoint": 3,
+        "type": "J",
+        "ids": [64, 65]
+    },
+    {
+        "keypoint": 4,
+        "type": "V",
+        "ids": [9043]
+    },
+    {
+        "keypoint": 5, 
+        "type": "J", 
+        "ids": [48, 51]
+    },
+    {
+        "keypoint": 6,
+        "type": "J",
+        "ids": [54,55]
+    },
+    {
+        "keypoint": 7,
+        "type": "J", 
+        "ids": [61]
+    },
+    {
+        "keypoint": 8,
+        "type": "J", 
+        "ids": [79]
+    },
+    {
+        "keypoint": 9, 
+        "type": "J",
+        "ids": [74]
+    },
+    {
+        "keypoint":  10, 
+        "type": "J",
+        "ids": [73]
+    }, 
+    {
+        "keypoint": 11, 
+        "type": "J", 
+        "ids": [70]  
+    },
+    {
+        "keypoint": 12,
+        "type": "J", 
+        "ids": [104]
+    },
+    {
+        "keypoint": 13, 
+        "type": "J",
+        "ids": [99]
+    },
+    {
+        "keypoint": 14,
+        "type": "J", 
+        "ids": [98]
+    },
+    {
+        "keypoint": 15, 
+        "type": "J", 
+        "ids": [95]  
+    },
+    {
+        "keypoint": 16,
+        "type": "J", 
+        "ids": [15]
+    },
+    {
+        "keypoint": 17, 
+        "type": "J", 
+        "ids": [5]
+    },
+    {
+        "keypoint": 18,
+        "type": "J", 
+        "ids": [4]
+    },
+    {
+        "keypoint": 19,
+        "type": "J", 
+        "ids": [38]
+    },
+    {
+        "keypoint": 20, 
+        "type": "J", 
+        "ids": [28]
+    },
+    {
+        "keypoint": 21,
+        "type": "J", 
+        "ids": [27]
+    }, 
+    { 
+        "keypoint": 22, 
+        "type": "V", 
+        "ids": [13693, 13661, 13660]
+    }, 
+    {
+        "keypoint": 23, 
+        "type": "V", 
+        "ids": [6309, 6308, 6333]
+    },
+    {
+        "keypoint": 24, 
+        "type": "J", 
+        "ids": [77]
+    },
+    {
+        "keypoint": 25, 
+        "type": "J", 
+        "ids": [81]
+    },
+    {
+        "keypoint": 26, 
+        "type": "J", 
+        "ids": [85]
+    },
+    {
+        "keypoint": 27, 
+        "type": "J", 
+        "ids": [89]
+    },
+    {
+        "keypoint": 28, 
+        "type": "J", 
+        "ids": [93]
+    },
+    {
+        "keypoint": 29, 
+        "type": "J", 
+        "ids": [102]
+    },
+    {
+        "keypoint": 30, 
+        "type": "J", 
+        "ids": [106]
+    },
+    {
+        "keypoint": 31, 
+        "type": "J", 
+        "ids": [110]
+    },
+    {
+        "keypoint": 32, 
+        "type": "J", 
+        "ids": [114]
+    },
+    {
+        "keypoint": 33, 
+        "type": "J", 
+        "ids": [118]
+    },
+    {
+        "keypoint": 34, 
+        "type": "J", 
+        "ids": [8]
+    },
+    {
+        "keypoint": 35, 
+        "type": "J", 
+        "ids": [12]
+    },
+    {
+        "keypoint": 36, 
+        "type": "J", 
+        "ids": [16]
+    },
+    {
+        "keypoint": 37, 
+        "type": "J", 
+        "ids": [20]
+    },
+    {
+        "keypoint": 38, 
+        "type": "J", 
+        "ids": [24]
+    },
+    {
+        "keypoint": 39, 
+        "type": "J", 
+        "ids": [31]
+    },
+    {
+        "keypoint": 40, 
+        "type": "J", 
+        "ids": [35]
+    },
+    {
+        "keypoint": 41, 
+        "type": "J", 
+        "ids": [39]
+    },
+    {
+        "keypoint": 42, 
+        "type": "J", 
+        "ids": [43]
+    },
+    {
+        "keypoint": 43, 
+        "type": "J", 
+        "ids": [47]
+    },
+    {
+        "keypoint": 44, 
+        "type": "V", 
+        "ids": [9268, 2156, 9039]
+    }, 
+    {
+        "keypoint": 45, 
+        "type": "V", 
+        "ids": [2028]
+    },
+    {
+        "keypoint": 46, 
+        "type": "V", 
+        "ids": [9342, 2235, 9391]
+    }
+    ]
+}
